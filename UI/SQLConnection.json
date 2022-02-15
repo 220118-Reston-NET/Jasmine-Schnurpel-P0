@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "ApothocaryDB": "Server=tcp:apothocarydb.database.windows.net,1433;Initial Catalog=ApothocaryDB;Persist Security Info=False;User ID=apothocaryAdmin;Password=Jasmine1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+    }
+}

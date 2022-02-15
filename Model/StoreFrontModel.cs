@@ -3,13 +3,13 @@ namespace Models
 
     public class StoreFrontModel
     {
-        public int StoreID { get; set; }
+        public string StoreID { get; set; }
         public string StoreName { get; set; }
         public string StoreAddress { get; set; }
 
         public StoreFrontModel()
         {
-            StoreID = 0;
+            StoreID = "";
             StoreName = "";
             StoreAddress = "";
         }

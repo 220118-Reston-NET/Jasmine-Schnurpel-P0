@@ -7,6 +7,6 @@ public class LineItemsModelTest
     [Fact]
     public void LineItemsShouldSetValidData()
     {
-
+        
     }
 }

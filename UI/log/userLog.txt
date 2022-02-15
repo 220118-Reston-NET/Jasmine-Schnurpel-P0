@@ -1,0 +1,102 @@
+2022-02-12 20:17:43.457 -08:00 [INF] Displayed Customer Menu
+2022-02-12 20:17:48.519 -08:00 [INF] Displayed Apothocary Menu
+2022-02-12 20:17:49.239 -08:00 [INF] User Exited Application
+2022-02-12 20:25:23.372 -08:00 [INF] Displayed Customer Menu
+2022-02-12 20:25:25.321 -08:00 [INF] Displayed Customer Menu
+2022-02-12 20:25:25.945 -08:00 [INF] Displayed Customer Menu
+2022-02-12 20:25:26.810 -08:00 [INF] User Exited Application
+2022-02-12 21:09:09.054 -08:00 [INF] Displayed Customer Menu
+2022-02-12 21:09:09.812 -08:00 [INF] Displayed Apothocary Menu
+2022-02-12 21:09:10.692 -08:00 [INF] Displayed Apothocary Menu
+2022-02-12 21:09:11.085 -08:00 [INF] Displayed Customer Menu
+2022-02-12 21:10:41.466 -08:00 [INF] User Exited Application
+2022-02-12 21:49:08.521 -08:00 [INF] Displayed Customer Menu
+2022-02-12 21:49:12.862 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:49:26.239 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:49:36.542 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:49:40.520 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:49:57.382 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:50:06.014 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:50:10.822 -08:00 [INF] Added jschnurpel to Database
+2022-02-12 21:50:11.127 -08:00 [WRN] Failed to add New User to Database
+2022-02-12 21:50:22.878 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 21:50:27.054 -08:00 [INF] User Exited Application
+2022-02-12 23:31:13.706 -08:00 [INF] Displayed Customer Menu
+2022-02-12 23:31:17.381 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:31:34.407 -08:00 [INF] User Exited Application
+2022-02-12 23:31:41.471 -08:00 [INF] Displayed Customer Menu
+2022-02-12 23:31:45.749 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:31:51.765 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:31:55.813 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:31:59.173 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:32:05.581 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:32:13.677 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:32:17.437 -08:00 [INF] Added jschnurpel to Database
+2022-02-12 23:32:17.483 -08:00 [WRN] Failed to add New User to Database
+2022-02-12 23:39:15.945 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:39:23.424 -08:00 [INF] Added jschnurpel to Database
+2022-02-12 23:39:23.425 -08:00 [WRN] Failed to add New User to Database
+2022-02-12 23:39:25.144 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:39:31.680 -08:00 [INF] User Exited Application
+2022-02-12 23:45:56.998 -08:00 [INF] Displayed Customer Menu
+2022-02-12 23:45:58.263 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:46:01.676 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:46:05.469 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:46:08.068 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:46:15.884 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:46:25.350 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:46:28.644 -08:00 [INF] Added jschnurpel to Database
+2022-02-12 23:46:28.931 -08:00 [WRN] Failed to add New User to Database
+2022-02-12 23:49:02.588 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:49:10.483 -08:00 [INF] Displayed Main Menu.
+2022-02-12 23:49:12.306 -08:00 [INF] Displayed Apothocary Menu
+2022-02-12 23:49:14.298 -08:00 [INF] User Exited Application
+2022-02-12 23:50:42.651 -08:00 [INF] User Exited Application
+2022-02-12 23:58:34.806 -08:00 [INF] Displayed Customer Menu
+2022-02-12 23:58:36.244 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:38.396 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:40.692 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:43.790 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:46.604 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:50.638 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:55.092 -08:00 [INF] Added as to Database
+2022-02-12 23:58:55.123 -08:00 [WRN] Failed to add New User to Database
+2022-02-12 23:58:57.044 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:58:59.741 -08:00 [INF] Displayed Add Customer Menu
+2022-02-12 23:59:01.228 -08:00 [INF] User Exited Application
+2022-02-13 10:15:01.356 -08:00 [INF] Displayed Customer Menu
+2022-02-13 10:15:02.666 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:15:08.634 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:15:11.138 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:15:13.387 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:15:20.226 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:15:29.722 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:15:31.530 -08:00 [INF] Added jschnurpel to Database
+2022-02-13 10:15:31.787 -08:00 [WRN] Failed to add New User to Database
+2022-02-13 10:16:39.081 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 10:16:44.233 -08:00 [INF] Displayed Customer Login Menu
+2022-02-13 10:16:46.561 -08:00 [INF] Displayed Main Menu.
+2022-02-13 10:16:50.641 -08:00 [INF] Displayed Apothocary Menu
+2022-02-13 10:16:52.393 -08:00 [INF] User Exited Application
+2022-02-13 11:21:35.071 -08:00 [INF] Displayed Customer Menu
+2022-02-13 11:21:38.612 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:21:44.268 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:21:49.404 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:21:52.749 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:22:01.788 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:22:13.468 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:22:44.147 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:22:49.500 -08:00 [INF] Added jschnurpel to Database
+2022-02-13 11:23:28.995 -08:00 [INF] Displayed Main Menu.
+2022-02-13 11:23:31.450 -08:00 [INF] User Exited Application
+2022-02-13 11:38:28.866 -08:00 [INF] Displayed Customer Menu
+2022-02-13 11:38:31.312 -08:00 [INF] Displayed Customer Login Menu
+2022-02-13 11:38:32.560 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:38:40.280 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:38:46.784 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:38:52.721 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:39:13.448 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:39:20.863 -08:00 [INF] Displayed Add Customer Menu
+2022-02-13 11:39:23.816 -08:00 [INF] Added aschnurpel to Database
+2022-02-13 11:39:27.720 -08:00 [INF] Displayed Main Menu.
+2022-02-13 11:39:29.959 -08:00 [INF] User Exited Application

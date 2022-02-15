@@ -2,7 +2,7 @@
 {
     public class CustomerModel
     {
-        public int UserID { get; set; }
+        public string UserID { get; set; }
         public string UserName { get; set; }
         public int UserLevel { get; set; }
         public string UserAddress { get; set; }
@@ -10,15 +10,15 @@
 
         public CustomerModel()
         {
-            UserID = 0;
-            UserName = "User";
-            UserLevel = 1;
-            UserAddress = "None";
-            UserEmail = "None";
+            UserID = "";
+            UserName = "";
+            UserLevel = 0;
+            UserAddress = "";
+            UserEmail = "";
         }
         public override string ToString()
         {
-            return $"ID: {UserID} Name: {UserName} \nLevel: {UserLevel} \nAddress: {UserAddress} \nEmail: {UserEmail} \n";
+            return $"ID: {UserID} Name: {UserName} \nAddress: {UserAddress} \nEmail: {UserEmail} \n";
         }
     }
 }

@@ -2,26 +2,28 @@ namespace Models
 {
     public class ProductsModel
     {
-        public int ProductID { get; set; }
-        public string ProductName { get; set; }
-        public string ProductDesc { get; set; }
-        public int ProductQuantity { get; set; }
-        public float ProductPrice { get; set; }
-        public int StoreID { get; set; }
+        public string ItemID { get; set; }
+        public string ItemName { get; set; }
+        public string ItemDesc { get; set; }
+        public int ItemQuantity { get; set; }
+        public float ItemPrice { get; set; }
+        public string StoreID { get; set; }
+        public int LevelMinimum { get; set; }
 
         public ProductsModel()
         {
-            ProductID = 0;
-            ProductName = "";
-            ProductDesc = "";
-            ProductQuantity = 0;
-            ProductPrice = 0;
-            StoreID = 0;
+            ItemID = "";
+            ItemName = "";
+            ItemDesc = "";
+            ItemQuantity = 0;
+            ItemPrice = 0;
+            StoreID = "";
+            LevelMinimum = 0;
         }
 
         public override string ToString()
         {
-            return $"Product ID: {ProductID}\nProduct Name: {ProductName}\nDescription: {ProductDesc}\nStock: {ProductQuantity}\nPrice: {ProductPrice}\nStore: {StoreID}\n";
+            return $"Product ID: {ItemID}\nProduct Name: {ItemName}\nDescription: {ItemDesc}\nStock: {ItemQuantity}\nStore: {StoreID}\n";
         }
     }
 }
